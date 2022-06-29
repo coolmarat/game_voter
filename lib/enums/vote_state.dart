@@ -1,0 +1,1 @@
+enum VoteState {none, hidden, shown}
